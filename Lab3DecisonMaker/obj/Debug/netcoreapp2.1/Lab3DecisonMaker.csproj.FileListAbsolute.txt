@@ -1,0 +1,11 @@
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\bin\Debug\netcoreapp2.1\Lab3DecisonMaker.deps.json
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\bin\Debug\netcoreapp2.1\Lab3DecisonMaker.runtimeconfig.json
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\bin\Debug\netcoreapp2.1\Lab3DecisonMaker.runtimeconfig.dev.json
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\bin\Debug\netcoreapp2.1\Lab3DecisonMaker.dll
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\bin\Debug\netcoreapp2.1\Lab3DecisonMaker.pdb
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\obj\Debug\netcoreapp2.1\Lab3DecisonMaker.csprojAssemblyReference.cache
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\obj\Debug\netcoreapp2.1\Lab3DecisonMaker.csproj.CoreCompileInputs.cache
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\obj\Debug\netcoreapp2.1\Lab3DecisonMaker.AssemblyInfoInputs.cache
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\obj\Debug\netcoreapp2.1\Lab3DecisonMaker.AssemblyInfo.cs
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\obj\Debug\netcoreapp2.1\Lab3DecisonMaker.dll
+C:\Users\Cody's PC\source\repos\Lab3DecisonMaker\Lab3DecisonMaker\obj\Debug\netcoreapp2.1\Lab3DecisonMaker.pdb
